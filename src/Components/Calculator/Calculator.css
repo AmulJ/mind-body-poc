@@ -1,0 +1,28 @@
+.calculator-parent {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  width: 300px;
+  height: 100px;
+  display: flex;
+}
+
+.container {
+  background-color: aquamarine;
+  border: 1px solid grey;
+  width: 310px;
+  height: 600px;
+  padding: 10px;
+}
+
+.field {
+  font-size: 50px;
+  width: 290px;
+  height: 60px;
+  margin: 20px 10px;
+  background-color: grey;
+  border: 1px solid black;
+  text-align: right;
+}

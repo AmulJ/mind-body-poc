@@ -1,0 +1,17 @@
+.calculator-button {
+    border: none;
+    background-color: rgb(53, 57, 57);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+  }
+  
+.calculator-button:hover {
+    background-color: rgb(33, 33, 35);
+}
