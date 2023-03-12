@@ -7,8 +7,9 @@
   
 ## Table grid using api 
   - Show table from api response ("https://jsonplaceholder.typicode.com/comments")
-  - Not able to do pagination as could not find any relevant api that supports pagination
   - Sorting works on click of header
+  - Click a row to show row details in modal
+  - Not able to do pagination as could not find any relevant api that supports pagination
   
 ## Undo Redo functionality
   - Add text in field
